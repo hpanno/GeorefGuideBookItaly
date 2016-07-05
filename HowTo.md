@@ -15,6 +15,7 @@ Before addin the basemap to your map:
   
 ---
 ###Layout
+
 Once you have yor data styled and basemap added to your data view, we'll use Print Composer to apply an appropriate layout for export. This is the equivilant interface as the layout view in ArcGIS. When exporting a map to PDF Maps in Avenza I find the most appropriate size is an E Sheet(34x44 in). 
   - Project > New Print Composer > Create a Name for your Map in the 'Composer title' dialog box.
   - Once the blank layout has appeared > Layout > Add Map > Click and Drag to create the space in which you would like your map to render on the layout display. 
@@ -23,3 +24,7 @@ Once you have yor data styled and basemap added to your data view, we'll use Pri
  
   
 ---
+###Export to Georeferenced TIFF
+
+Here we will export the properly formatted map as a georeferenced TIFF for use in PDF Maps. You don't <i>have</i> to format an image before export. If you follow these same steps in the data view it will export the image to the extent of scale in your data view. However, if you export from data view the geotiff resolution will be quite poor in PDF Maps. Going throught the motions of layout and assigning a DPI value will increase the quality of your product. 
+  -  
