@@ -32,4 +32,4 @@ Here we will export the properly formatted map as a georeferenced TIFF for use i
 
 
 ---
-###Adding to PEF Maps
+###Adding to PDF Maps
