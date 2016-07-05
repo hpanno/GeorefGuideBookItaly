@@ -1,4 +1,4 @@
----
+
 ###Layout
 
 Once you have yor data styled and basemap added to your data view, we'll use Print Composer to apply an appropriate layout. This is the equivilant interface as the layout view in ArcGIS.
@@ -7,3 +7,4 @@ Once you have yor data styled and basemap added to your data view, we'll use Pri
   - Select from the Presets drop down on the 'Page Size' section (right hand side of screen) > ANSI E (34x44in) or what ever is appropriate for your project.
   - Export Settings > Export Resolution = 300dpi
  
+---
