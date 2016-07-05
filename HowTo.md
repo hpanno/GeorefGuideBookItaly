@@ -18,3 +18,4 @@ Once you have yor data styled and basemap added to your data view, we'll use Pri
   - Once the blank layout has appeared > Layout > Add Map > Click and Drag to create the space in which you would like your map to render on the layout display. 
   - Select from the Presets drop down on the 'Page Size' section (right hand side of screen) > ANSI E (34x44in)
   - Export Settings > Export Resolution = 300dpi
+---
