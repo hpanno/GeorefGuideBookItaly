@@ -27,4 +27,9 @@ Once you have yor data styled and basemap added to your data view, we'll use Pri
 ###Export to Georeferenced TIFF
 
 Here we will export the properly formatted map as a georeferenced TIFF for use in PDF Maps. You don't <i>have</i> to format an image before export. If you follow these same steps in the data view it will export the image to the extent of scale in your data view. However, if you export from data view the geotiff resolution will be quite poor in PDF Maps. Going throught the motions of layout and assigning a DPI value will increase the quality of your product. 
-  -  
+  -  <b>In Print Composer</b> Composer > Export To Image > Ok
+  -  <b>In Quantum</b> > Raster > Conversion > Translate (Convert Format) > Navigate to the image you just created in Composer for the Input > Save to necessary location for Export location > Select radio button for Creation Options > High Compression > Ok
+
+
+---
+###Adding to PEF Maps
