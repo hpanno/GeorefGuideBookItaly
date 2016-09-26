@@ -6,10 +6,10 @@ Once you have your data styled and basemap added to your data view, we'll use Pr
   - Once the blank layout has appeared > Layout > Add Map > Click and Drag to create the space in which you would like your map to render on the layout display. 
   - Select from the Presets drop down on the 'Page Size' section (right hand side of screen) > ANSI E (34x44in) or the page size appropriate for your project.
   - Export Settings > Export Resolution = 300dpi
+  
+---
  
-
-
-##EAdding Title Blocks, North Arrow, Logos, Legend, and Scale
+##Adding Title Blocks, North Arrow, Logos, Legend, and Scale
 
 Add a Title Block by selecting the 'Add Shape' icon on the left side of the Print Composer panel. Click and drag your box, adjust as necessary; add Title and descriptive text to your Title Block.
 
