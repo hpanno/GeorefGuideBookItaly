@@ -1,6 +1,8 @@
 
 ##Layout
 
+####Generating your Layout
+
 Once you have your data styled and basemap added to your data view, we'll use Print Composer to apply an appropriate layout. This is the equivilant interface as the layout view in ArcGIS.
   - Project > New Print Composer > Create a Name for your Map in the 'Composer title' dialog box.
   - Once the blank layout has appeared > Layout > Add Map > Click and Drag to create the space in which you would like your map to render on the layout display. 
