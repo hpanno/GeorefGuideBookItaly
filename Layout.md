@@ -1,5 +1,5 @@
 
-###Layout
+##Layout
 
 Once you have your data styled and basemap added to your data view, we'll use Print Composer to apply an appropriate layout. This is the equivilant interface as the layout view in ArcGIS.
   - Project > New Print Composer > Create a Name for your Map in the 'Composer title' dialog box.
@@ -9,7 +9,7 @@ Once you have your data styled and basemap added to your data view, we'll use Pr
   
 ---
  
-##Adding Title Blocks, North Arrow, Logos, Legend, and Scale
+####Adding Title Blocks, North Arrow, Logos, Legend, and Scale
 
 Add a Title Block by selecting the 'Add Shape' icon on the left side of the Print Composer panel. Click and drag your box, adjust as necessary; add Title and descriptive text to your Title Block.
 
