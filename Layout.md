@@ -1,6 +1,8 @@
 
 ##Layout
 
+---
+
 ####Generating your Layout
 
 Once you have your data styled and basemap added to your data view, we'll use Print Composer to apply an appropriate layout. This is the equivilant interface as the layout view in ArcGIS.
